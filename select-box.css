@@ -1,0 +1,36 @@
+.new-select-style-wpandyou select {
+	text-transform: uppercase;
+    border-radius: 0;
+    background: none;
+    height: 34px;
+    padding: 5px;
+    border: 0;
+    font-size: 16px;
+    line-height: 1;
+    -webkit-appearance: none;
+    width: 268px;
+    color: #fff;
+   }
+
+.new-select-style-wpandyou select option{
+	color:#fff;
+	background-color: #000;
+}
+
+.new-select-style-wpandyou select option:hover{
+	color: #e96915;
+}
+
+ .new-select-style-wpandyou select:hover{
+ 	color:#e96915; 
+ }
+
+
+ .new-select-style-wpandyou {
+    border: 0px solid #000;
+    overflow: hidden; 
+    height: 34px;
+    background: url('img/arrow_down_2.png') no-repeat right #000;
+    width: 115px;
+   }
+
