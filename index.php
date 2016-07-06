@@ -58,9 +58,9 @@
 
          </div>
          
-         <div class="mail2"></div>
+       <!--   <div class="mail2"></div>
          
-         <div class="phone2"></div>
+         <div class="phone2"></div> -->
 
          
          <div class="header">
@@ -68,6 +68,8 @@
          		<div class="tong"></div>
          		<div class="price"></div>
          		<div class="text04"><b>1499 </b>руб.</div>
+         		<div class="t_a_p">ТОНГКАТ АЛИ ПЛАТИНУМ</div>
+         		<div class="text02">Средство для улучшения потенции</div>
          	</div>
          </div>	
          
@@ -82,8 +84,8 @@
          <div class="bg_text2"></div>
          <div class="galka3"></div>
          <div class="bg_text3"></div>
-         <div class="t_a_p">ТОНГКАТ АЛИ ПЛАТИНУМ</div>
-         <div class="text02">Средство для улучшения потенции</div>
+         
+         
          <div class="text03">Для повышения потенции, эрекции и лечение половых дисфункций</div>
          
          <div class="text05">100% гарантия результата</div>
