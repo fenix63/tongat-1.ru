@@ -32,7 +32,9 @@
 		         	</div>
          		</div>
          		<div class="phone"></div>
-         		<div class="mail"></div>
+         		<div class="mail">
+         			<span>tongkat@mail.ru</span>
+         		</div>
 
 
 
