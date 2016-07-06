@@ -125,34 +125,21 @@
 
 				         		
          	</div>
-         </div>	
+         </div>	<!--header-->
          
-         
+         <div class="about">
+         	<div class="container">
+
+         		<div class="about_head">
+         			натуральный препарат на основе корня <br/>
+         			тонгкат али платинум
+         		</div>
+         		<div class="pic_1"></div>
+         		<div class="_1"></div>
+         	</div>
+         </div>
          
 
-         
-         <!-- <div class="border"></div>
-         <div class="galka"></div>
-         <div class="bg_text"></div>
-         <div class="galka2"></div>
-         <div class="bg_text2"></div>
-         <div class="galka3"></div>
-         <div class="bg_text3"></div>
-         
-         
-         <div class="text03">Для повышения потенции, эрекции и лечение половых дисфункций</div>
-         
-         <div class="text05">100% гарантия результата</div>
-         <div class="text06">Эффективен в любом возрасте</div>
-         <div class="text07">Не содержит химических субстанций</div>
-         <div class="bg_arrow"></div>
-         <div class="text08">Успейте сделать заказ до 30 июля 2016 года и получите энергетический браслет в подарок</div>
-         <div class="text09"></div>
-         <div class="text10">Заполните заявку и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
-         <div class="text11">Доставка строго конфиденциальна</div>
-         <div class="text12">Имя:</div>
-         <div class="text13">Номер телефона:</div>
-         <div class="text14">E-mail:</div> -->
 
 
 
@@ -291,10 +278,10 @@
 		 </div>
 
          <!--<div class="russian">РОССИЯ</div>-->
-         <div class="_1"></div>
+         
          <div class="_2"></div>
          <div class="_3"></div>
-         <div class="pic_1"></div>
+         
          <div class="pic_2"></div>
          <div class="pic_3"></div>
          <div class="tongat"></div>
