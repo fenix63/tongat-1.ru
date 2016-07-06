@@ -89,6 +89,10 @@
 					<div class="galka"></div>
 					<div class="text05">не содержит химических субстанций</div>
 				</div>
+
+				<div class="bg_arrow">
+					<span>Успейте сделать заказ до 30 июля 2016 года и <br/> получите энергетический браслет в подарок</span>
+				</div>
          		<!-- <div class="tong"></div>
          		<div class="price"></div>
          		<div class="text04"><b>1499 </b>руб.</div>

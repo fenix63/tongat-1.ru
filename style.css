@@ -2695,12 +2695,23 @@ a:hover
 .bg_arrow 
 {
     background-image: url("img/bg_arrow.png");
-    position: absolute;
-    left: 666px;
-    top: 534px;
+    position: relative;
+    float: left;
     width: 607px;
     height: 100px;
     z-index: 309;
+}
+
+.bg_arrow span{
+  position: relative;
+  float: left;
+  margin-left: 132px;
+  margin-top: 31px;
+
+  font-size: 20px;
+  font-family: "Hattori Hanzo";
+  color: rgb(255, 255, 255);
+  font-style: italic;
 }
 
 .normal2
