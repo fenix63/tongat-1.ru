@@ -2576,9 +2576,7 @@ a:hover
 .icon_zamok 
 {
   background-image: url("img/icon_zamok.png");
-  position: absolute;
-  left: 1293px;
-  top: 282px;
+
   width: 15px;
   height: 21px;
   z-index: 299;
@@ -2700,6 +2698,7 @@ a:hover
     width: 607px;
     height: 100px;
     z-index: 309;
+    margin-left: -90px;
 }
 
 .bg_arrow span{
@@ -2781,3 +2780,99 @@ a:hover
 	margin-left: 0px;
 }
 
+.request{
+  position: relative;
+  float: left;
+  width: 270px;
+  height: 550px;
+  background-color: rgba(36, 36, 36,0.8);
+  opacity: 0.8;
+  margin-top: -440px;
+  margin-left: 490px;
+  border-radius: 10px;
+}
+
+.request_top_txt{
+    font-size: 15px;
+    font-family: "Open Sans";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: center;
+    padding: 25px;
+}
+
+.zamok{
+    background-color: rgba(56, 56, 56,1.0);
+    position: relative;
+    float: left;
+    width: 272px;
+    height: 40px;
+    z-index: 298;
+}
+
+.zamok span{
+    position: relative;
+    font-size: 11px;
+    font-family: "Open Sans";
+    color: rgb(190, 190, 190);
+    line-height: 1.2;
+    text-align: center;
+    height: 12px;
+    z-index: 300;
+    top: 10px;
+    margin-left: 10px;
+}
+
+.icon_zamok{
+  margin-left: 25px;
+  margin-top: 8px;
+  float: left;
+}
+
+.req_name span, .req_phone span, .req_email span{
+  float: left;
+  margin-left: 20px;
+  margin-top: 18px;
+  margin-bottom: 11px;
+  display: inline-block;
+  font-size: 14px;
+  font-family: "Open Sans";
+}
+
+ .req_phone span, .req_email span{
+  margin-top: 10px;
+}
+
+.req_name input, .req_phone input, .req_email input{
+  float: left;
+  width: 220px;
+  height: 40px;
+  margin-left: 20px;
+  border-radius: 10px;
+  border:2px solid #ffc41a;
+  padding-left: 12px;
+}
+
+.request input[type="submit"]{
+  float: left;
+  position: relative;
+  width: 232px;
+  height: 42px;
+  background-color: #e6610b;
+  border-radius: 20px;
+  border:0px;
+  margin-left: 20px;
+  margin-top: 15px;
+  color:#fff;
+  text-transform: uppercase;
+}
+
+.request p{
+  position: relative;
+  float: left;
+  color:#fff;
+  margin-left: 20px;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Open Sans";
+}

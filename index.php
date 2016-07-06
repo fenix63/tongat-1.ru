@@ -93,11 +93,37 @@
 				<div class="bg_arrow">
 					<span>Успейте сделать заказ до 30 июля 2016 года и <br/> получите энергетический браслет в подарок</span>
 				</div>
-         		<!-- <div class="tong"></div>
-         		<div class="price"></div>
-         		<div class="text04"><b>1499 </b>руб.</div>
-         		<div class="t_a_p">ТОНГКАТ АЛИ ПЛАТИНУМ</div>
-         		<div class="text02">Средство для улучшения потенции</div> -->
+
+				<form name="zayavka" class="request">
+					<div class="request_top_txt">Заполните заявку и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
+					<div class="zamok">
+						<div class="icon_zamok">
+						</div>
+						<span>Доставка строго конфиденциальна</span>
+					</div>
+
+					<div class="req_name">
+						<span>Имя:</span>
+						<input type="text">
+					</div>
+
+					<div class="req_phone">
+						<span>Номер телефона:</span>
+						<input type="text">
+					</div>
+
+					<div class="req_email">
+						<span>E-mail:</span>
+						<input type="text">
+					</div>
+
+					<input type="submit" value="Отправить заявку" />
+					<p>
+						Персональные данные не будут <br/> переданы третьим лицам
+					</p>
+				</form>
+
+				         		
          	</div>
          </div>	
          
