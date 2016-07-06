@@ -35,13 +35,15 @@ img
   background-image: url("img/mail.png");
   position: relative;
   float: right;
-  top: 13px;
+  top: 22px;
   width: 20px;
   height: 15px;
   z-index: 350;
-  margin-right: 220px;
+  margin-right: 170px;
   color: #fff;
 }
+
+
 
 .mail span{
   margin-left: 30px;
@@ -97,13 +99,18 @@ img
 .phone 
 {
   background-image: url("img/phone.png");
+  background-repeat: no-repeat;
   position: relative;
   float: right;
-  top: 10px;
-  width: 18px;
+  top: 22px;
   height: 18px;
   z-index: 349;
-  margin-right: 70px;
+ 
+}
+
+.phone span{
+  color: #fff;
+  margin-left: 30px;
 }
 
 .bg_top 
@@ -1533,6 +1540,25 @@ a
   text-decoration: none;
 }
 
+.callback{
+  border:0px solid #fff;
+  border-radius: 20px;
+  background-color: #dedede;
+  width: 143px !important;
+  height: 30px !important;
+  padding-top: 11px;
+  padding-left: 18px;
+  margin-top: -4px !important;
+}
+
+.callback:hover{
+  background-color: #fcfcfc;
+}
+
+.callback a{
+  color: #000;
+}
+
 a:hover
 {
   font-size: 13px;
@@ -2636,6 +2662,7 @@ a:hover
 
 .link1, .link2, .link3, .link4, .link5, .link6, .link7, .link8{
 	position: relative;
+  margin-top: 8px;
 	left:0;
 	width: auto;
 	margin-left: 30px;

@@ -31,7 +31,9 @@
 		         			</select>
 		         	</div>
          		</div>
-         		<div class="phone"></div>
+         		<div class="phone">
+         			<span>8-800-707-10-26</span>
+         		</div>
          		<div class="mail">
          			<span>tongkat@mail.ru</span>
          		</div>
@@ -51,6 +53,7 @@
 		         <div class="link6"><a href="#o6">Вопросы и ответы</a></div>
 		         <div class="link7"><a href="#delivery">Доставка</a></div>
 		         <div class="link8"><a href="#contacts">Контакты</a></div>
+		         <div class="link1 callback"><a href="#">Заказать звонок</a></div>
          	</div>
 
          </div>
