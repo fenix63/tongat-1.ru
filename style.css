@@ -137,7 +137,27 @@ img
   z-index: 335;
 }
 
-.price
+
+.price{
+  position: relative;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-color: rgb(233, 105, 21);
+  float: left;
+  margin-top: 442px;
+  margin-left: -312px;
+}
+
+.price span{
+  position: relative;
+  margin-left: 30px;
+  top: 38px;
+  font-size: 30px;
+  color: #fff;
+  text-align: center;
+}
+/*.price
 {
   border-radius: 50%;
   background-color: rgb(233, 105, 21);
@@ -147,13 +167,14 @@ img
   width: 122px;
   height: 122px;
   z-index: 319;
-}
+}*/
 
 .tong 
 {
-  background-image: url("img/tong.png");
-  position: relative;
-  top: 60px;
+  /*background-image: url("img/tong.png");*/
+
+  float: left;
+  margin-top: 60px;
   width: 405px;
   height: 546px;
   z-index: 318;
@@ -170,7 +191,20 @@ img
   z-index: 330;
 }
 
-.galka 
+.galka{
+  background-image: url("img/galka.png");
+  position: relative; 
+  float: left;
+  
+
+  width: 32px;
+  height: 27px;
+  z-index: 324;
+  margin-left: 64px;
+  margin-top: 10px;
+}
+
+/*.galka 
 {
   background-image: url("img/galka.png");
   position: absolute;
@@ -179,7 +213,7 @@ img
   width: 32px;
   height: 27px;
   z-index: 324;
-}
+}*/
 .galka2 
 {
   background-image: url("img/galka.png");
@@ -202,9 +236,17 @@ img
   z-index: 326;
 }
 
+.t_a_p{
+  position: relative;
+  float: left;
+  margin-top: 66px;
 
+  font-size: 30px;
+  font-family: "Open Sans";
+  margin-left: 45px;
+}
 
-.t_a_p
+/*.t_a_p
 {
   top:-650px;
   left:400px;
@@ -219,9 +261,19 @@ img
   width: 450px;
   height: 21px;
   z-index: 333;
-}
+}*/
 
-.text02 
+
+.text02{
+  position: relative;
+  float: left;
+  margin-right: 100px;
+  margin-left: 80px;
+  font-size: 18px;
+  font-family: "Open Sans";
+  color: rgb(233, 105, 21);
+}
+/*.text02 
 {
   bottom: 600px;
   left:-5px;
@@ -235,9 +287,26 @@ img
   position: relative;
   height: 16px;
   z-index: 332;
-}
+}*/
 
-.text03
+
+.text03{
+  text-transform: uppercase;
+  position: relative;
+  float: left;
+  width: 315px;
+  height: 55px;
+  border: 1px solid #000;
+  padding-top: 16px;
+  padding-left: 20px;
+  padding-right: 25px;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Open Sans";
+  margin-top: 30px;
+  margin-left: 69px;
+}
+/*.text03
 {
   font-size: 15px;
     font-family: "Open Sans";
@@ -251,7 +320,7 @@ img
     width: 315px;
     height: 32px;
     z-index: 331;
-}
+}*/
 
 .text04
 {
@@ -268,7 +337,18 @@ img
     z-index: 320;
 }
 
-.text05 
+.text05{
+  position: relative;
+  float: left;
+  font-size: 16px;
+  font-family: "Hattori Hanzo";
+  color: rgb(30, 30, 30);
+  z-index: 327;
+  margin-left: 35px;
+  margin-top: 16px;
+  text-transform: uppercase;
+}
+/*.text05 
 {
   font-size: 15px;
   font-family: "Hattori Hanzo";
@@ -282,7 +362,7 @@ img
   width: 193px;
   height: 11px;
   z-index: 327;
-}
+}*/
 
 .text06 
 {
@@ -2585,7 +2665,22 @@ a:hover
   z-index: 322;
 }
 
-.bg_text3 
+.bg_text3, .bg_text3_2{
+  position: relative;
+  float: left;
+  width: 495px;
+  height: 47px;
+  background-color: rgba(30, 30, 30, 0.2);
+  
+  margin-top: 37px;
+  z-index: 321;
+} 
+
+.bg_text3_2{
+  margin-top: 15px;
+}
+
+/*.bg_text3 
 {
   background-color: rgb(30, 30, 30);
   opacity: 0.2;
@@ -2595,7 +2690,7 @@ a:hover
   width: 498px;
   height: 46px;
   z-index: 321;
-}
+}*/
 
 .bg_arrow 
 {
@@ -2671,7 +2766,7 @@ a:hover
 	float: left;
 }
 
-.container div:first-child{
+.container .link1{
 	margin-left: 0px;
 }
 

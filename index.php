@@ -65,11 +65,35 @@
          
          <div class="header">
          	<div class="container">
-         		<div class="tong"></div>
+         		<div class="tong">
+         			<img src="img/tong.png" alt="" />
+         		</div>
+				<div class="price">
+					<span>1499 <br/> руб.</span>
+				</div>
+				<div class="t_a_p">ТОНГКАТ АЛИ ПЛАТИНУМ</div>
+				<div class="text02">Средство для улучшения потенции</div>
+				<div class="text03">Для повышения потенции, эрекции и <br/> лечение половых дисфункций</div>
+				
+				<div class="bg_text3">
+					<div class="galka"></div>
+					<div class="text05">100% гарантия результата</div>
+				</div>
+
+				<div class="bg_text3_2">
+					<div class="galka"></div>
+					<div class="text05">эффективен в любом возрасте</div>
+				</div>
+
+				<div class="bg_text3_2">
+					<div class="galka"></div>
+					<div class="text05">не содержит химических субстанций</div>
+				</div>
+         		<!-- <div class="tong"></div>
          		<div class="price"></div>
          		<div class="text04"><b>1499 </b>руб.</div>
          		<div class="t_a_p">ТОНГКАТ АЛИ ПЛАТИНУМ</div>
-         		<div class="text02">Средство для улучшения потенции</div>
+         		<div class="text02">Средство для улучшения потенции</div> -->
          	</div>
          </div>	
          
@@ -77,7 +101,7 @@
          
 
          
-         <div class="border"></div>
+         <!-- <div class="border"></div>
          <div class="galka"></div>
          <div class="bg_text"></div>
          <div class="galka2"></div>
@@ -98,7 +122,12 @@
          <div class="text11">Доставка строго конфиденциальна</div>
          <div class="text12">Имя:</div>
          <div class="text13">Номер телефона:</div>
-         <div class="text14">E-mail:</div>
+         <div class="text14">E-mail:</div> -->
+
+
+
+
+
          <div class="text15">Улучшает кровообращение в органах малого таза.</div>
          <div class="text16">Стимулирует иммунитет и общее самочувствие, снимает умственную и физическую усталость, повышает работоспособность.</div>
          <div class="text17">Рекомендуется при инфекциях мочеполых путей (уретриты, циститы, пиелонефриты), простатите, фибромиоме матки, бесплодии.</div>
@@ -163,9 +192,12 @@
          <div class="text76">?</div>
          <div class="text77">?</div>
          <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Ic4OuOIkmQ" frameborder="0" allowfullscreen></iframe></div>
-         <div class="icon_zamok"></div>
+         <!-- <div class="icon_zamok"></div> -->
          <div class="icon_zamok_2"></div>
-         <div class="bg_zamok"></div>
+         
+         <!-- <div class="bg_zamok"></div> -->
+
+
          <div class="bg_zamok_2"></div>
          <div id="popup">
              <div class="exit" onclick="openbox();"></div>
@@ -179,7 +211,10 @@
          <div class="noactive5"></div>
          <div class="noactive6"></div>
          <div class="active"></div>
-         <div class="bg"></div>
+         
+         <!-- <div class="bg"></div> -->
+
+
          <div class="bg_2"></div>
          <div class="bg_3"></div>
          <div class="bg_4"></div>
@@ -212,7 +247,7 @@
          <div class="star6"></div>
          <div class="star7"></div>
          <div class="star8"></div>
-         <div class="normal2"></div>
+         <!-- <div class="normal2"></div> -->
          <div class="normal3"></div>
          <div class="normal4" onclick="openbox();"></div>
          <div class="normal5"></div>
@@ -255,9 +290,9 @@
          <div class="present"></div> 
          
          
-         <div class="field1"><input class="fields" "type"="text" name="name"></div>
+         <!-- <div class="field1"><input class="fields" "type"="text" name="name"></div>
          <div class="field2"><input class="fields" "type"="text" name="number"></div>
-         <div class="field3"><input class="fields" "type"="text" name="email"></div>
+         <div class="field3"><input class="fields" "type"="text" name="email"></div> -->
          
          <div class="field4"><input class="fields" "type"="text" name="name"></div>
          <div class="field5"><input class="fields" "type"="text" name="number"></div>
