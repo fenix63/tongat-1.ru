@@ -229,7 +229,7 @@
 					<div class="normal4" onclick="openbox();">подробнее о браслете</div>
 					<div class="photo"></div>
 
-					<div class="tongat"></div>
+					
 				</div>
 				
 				<form name="form2" class="request">
@@ -323,15 +323,27 @@
 
 
 			</div>
+		</div><!--why_us-->
+		
+		<div class="recommended">
+			<div class="container">
+				<div class="rec_head">
+					также рекомендуем приобрести
+				</div>
+				<div class="glide">
+				</div>
+				<div class="glide_price">
+				<span><b>600</b> руб.</span>
+				</div>
+			</div>
 		</div>
 
-
          
          
-         
+         <!-- 
          <div class="text24"><a name="o2" class="o2"></a><b>Натуральный препарат на основе корня  Тонгкат Али Платинум</b></div>
          
-         
+          -->
          
          
          
@@ -345,7 +357,7 @@
          <div class="text37">Номер телефона:</div>
          <div class="text38">E-mail:</div> -->
          <!-- <div class="text39" onclick="showSpoiler(this);"></div> -->
-         <div class="text40"><a name="o3" class="o3"></a><b>Наши преимущества</b></div>
+         
          
          <!-- <div class="text42">Вы ничем не рискуете: оплата заказа при получении или другие удобные для Вас способы оплаты</div>
          <div class="text43">Низкие цены Хорошие скидки и акции с подарками при заказе</div> -->
@@ -377,12 +389,12 @@
          <div class="text69">Успей заказать до 30 июля 2016 года и получить подарок!</div>
          <div class="text70">Сертификаты</div> -->
          
-         <div class="text72">?</div>
+        <!--  <div class="text72">?</div>
          <div class="text73">?</div>
          <div class="text74">?</div>
          <div class="text75">?</div>
          <div class="text76">?</div>
-         <div class="text77">?</div>
+         <div class="text77">?</div> -->
          <!-- <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Ic4OuOIkmQ" frameborder="0" allowfullscreen></iframe></div> -->
          <!-- <div class="icon_zamok"></div> -->
          <!-- <div class="icon_zamok_2"></div> -->
@@ -391,7 +403,7 @@
 
 
          <!-- <div class="bg_zamok_2"></div> -->
-         <div id="popup">
+        <!--  <div id="popup">
              <div class="exit" onclick="openbox();"></div>
              <div class="popupphoto"></div>
              <div class="popuptext"></div>
@@ -402,7 +414,7 @@
          <div class="noactive4"></div>
          <div class="noactive5"></div>
          <div class="noactive6"></div>
-         <div class="active"></div>
+         <div class="active"></div> -->
          
          <!-- <div class="bg"></div> -->
 
@@ -412,7 +424,7 @@
          <!-- <div class="bg_4"></div> -->
          <!-- <div class="bg_5"></div> -->
          <!-- <div class="bg_6"></div> -->
-         <div class="bg_7"></div>
+        <!--  <div class="bg_7"></div>
          <div class="bg_8"></div>
          <div class="bg_9"></div>
          <div class="sertificat"></div>
@@ -420,7 +432,7 @@
          <div class=""></div>
          <div class=""></div>
          <div class=""></div>
-         <div class="tong_bottom"></div>
+         <div class="tong_bottom"></div> -->
      <!--     <div class="fig"></div>
          <div class="fig2"></div>
          <div class="fig3"></div>
@@ -442,7 +454,7 @@
          <!-- <div class="normal2"></div> -->
          <!-- <div class="normal3"></div> -->
          
-         <div class="normal5"></div>
+         <!-- <div class="normal5"></div> -->
          <div class="normal6"></div>
 		 <div class="delivery" id="delivery">
 		 	<a href="#">Доставка</a>
@@ -458,11 +470,11 @@
     
          <!-- <div class="tongat"></div> -->
 
-          <div class="arrow_3"></div>
+          <!-- <div class="arrow_3"></div>
 
 
          <div class="arrow10"></div>
-         <div class="arrow11"></div>
+         <div class="arrow11"></div> -->
          
 
          
