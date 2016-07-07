@@ -509,10 +509,9 @@ img
   color: rgb(65, 69, 69);
   line-height: 1.2;
   text-align: left;
-  position: absolute;
-  left: 403.922px;
-  top: 1041.383px;
-  width: 338px;
+  position: relative;
+
+  width: 360px;
   height: 178px;
   z-index: 269;
 }
@@ -524,9 +523,8 @@ img
     color: rgb(65, 69, 69);
     line-height: 1.2;
     text-align: left;
-    position: absolute;
-    left: 403.922px;
-    top: 1091.383px;
+    position: relative;
+
     width: 400px;
     height: 178px;
     z-index: 269;
@@ -2419,9 +2417,9 @@ a:hover
 ._2 
 {
   background-image: url("img/2.png");
-  position: absolute;
-  left: 932px;
-  top: 961px;
+  position: relative;
+  margin-top: 137px;
+  margin-left: 156px;
   width: 61px;
   height: 61px;
   z-index: 280;
@@ -2430,9 +2428,9 @@ a:hover
 ._3 
 {
   background-image: url("img/3.png");
-  position: absolute;
-  left: 1327px;
-  top: 960px;
+  position: relative;
+  margin-left: 150px;
+  margin-top: 137px;
   width: 61px;
   height: 61px;
   z-index: 281;
@@ -2449,9 +2447,8 @@ a:hover
 
 .pic_2 {
   background-image: url("img/pic_2.png");
-  position: absolute;
-  left: 776px;
-  top: 829px;
+  position: relative;
+  float: left;
   width: 370px;
   height: 164px;
   z-index: 265;
@@ -2460,9 +2457,8 @@ a:hover
 .pic_3 
 {
   background-image: url("img/pic_3.png");
-  position: absolute;
-  left: 1173px;
-  top: 829px;
+  position: relative;
+  float: left;
   width: 370px;
   height: 164px;
   z-index: 264;
@@ -2877,4 +2873,39 @@ a:hover
 
 .about{
   height: 545px;
+}
+
+.list{
+  width: 360px;
+}
+
+.about .list ul{
+  list-style-image: url(img/arrow.png);
+    font-size: 15px;
+    font-family: "Open Sans";
+    color: rgb(65, 69, 69);
+    padding-left: 0px;
+}
+
+.about .list ul li{
+  width: 355px;
+  margin-bottom: 15px;
+}
+
+.about .block_1, .about .block_2, .about .block_3{
+  width: 370px;
+  float: left;
+}
+
+.about .block_2, .about .block_3{
+  margin-left: 30px;
+}
+
+.about_head{
+  font-size: 20pt;
+  font-family: "Open Sans";
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 40px;
+  padding-bottom: 38px;
 }
