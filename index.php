@@ -219,7 +219,111 @@
 			</div>
 		</div><!--video_block-->
 
+		<div class="promo">
+			<div class="container">
+				<div class="podarok">
+					
+					<div class="present"></div>
+					<div class="text33"><b>Подарок при заказе до 30.06.2016</b></div>
+					<div class="text32">Энергетический браслет Power Balance</div>
+					<div class="normal4" onclick="openbox();">подробнее о браслете</div>
+					<div class="photo"></div>
 
+					<div class="tongat"></div>
+				</div>
+				
+				<form name="form2" class="request">
+					<div class="request_top_txt">Заполните заявку <br/> и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
+					<div class="zamok">
+						<div class="icon_zamok">
+						</div>
+						<span>Доставка строго конфиденциальна</span>
+					</div>
+
+					<div class="req_name">
+						<span>Имя:</span>
+						<input type="text">
+					</div>
+
+					<div class="req_phone">
+						<span>Номер телефона:</span>
+						<input type="text">
+					</div>
+
+					<div class="req_email">
+						<span>E-mail:</span>
+						<input type="text">
+					</div>
+
+					<input type="submit" value="Отправить заявку" />
+					
+				</form>
+
+
+				<!-- <form name="form2" action="">
+					<div class="text34">Заполните заявку <br/> и мы <b>бесплатно доставим</b> Вам <br/> Тонгкат в любой город России</div>
+					<div class="bg_zamok_2">
+						<div class="icon_zamok_2"></div>
+						<div class="text35">Доставка строго конфиденциальна</div>
+					</div>
+					
+					
+				</form> -->
+
+
+			</div>
+		</div><!--promo-->
+
+		<div class="why_us">
+			<div class="container">
+
+			<div class="why_us_header">
+				наши преимущества
+			</div>
+				<div class="item">
+					<div class="star8"></div>
+					<div class="text41">100% гарантия качества. Только оригинальная продукция. Работа напрямую с производителем</div>
+				</div>
+
+				<div class="item">
+					<div class="star8"></div>
+					<div class="text41">Вы ничем не рискуете: оплата заказа при получении или другие удобные для Вас способы оплаты</div>
+				</div>
+
+				<div class="item">
+					<div class="star8"></div>
+					<div class="text41">Низкие цены Хорошие скидки и акции с подарками при заказе</div>
+				</div>
+	
+				<div class="item">
+					<div class="star8"></div>
+					<div class="text41">Доставка по всей России Пункты самовывоза в 100 городах</div>
+				</div>
+
+				<div class="item">
+					<div class="star8"></div>
+					<div class="text41">Быстрая доставка заказанного товара удобным способом</div>
+				</div>
+
+				<div class="item">
+					<div class="star8"></div>
+					<div class="text41">Качественная поддержка клиентов - круглосуточный колл-центр</div>
+				</div>
+
+				<div class="item">
+					<div class="star8"></div>
+					<div class="text41">Низкая стоимость доставки по городам России - от 200 руб.</div>
+				</div>
+
+				<div class="item">
+					<div class="star8"></div>
+					<div class="text41">Быстре и удобное оформление заказа за 1 клик через сайт</div>
+				</div>
+
+
+
+			</div>
+		</div>
 
 
          
@@ -233,24 +337,24 @@
          
          
          
-         <div class="text32">Энергетический браслет Power Balance</div>
-         <div class="text33"><a name="o5" class="o5"></a><b>Подарок при заказе до 30.06.2016</b></div>
-         <div class="text34">Заполните заявку и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
+         
+         
+         <!-- <div class="text34">Заполните заявку и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
          <div class="text35">Доставка строго конфиденциальна</div>
          <div class="text36">Имя:</div>
          <div class="text37">Номер телефона:</div>
-         <div class="text38">E-mail:</div>
-         <div class="text39" onclick="showSpoiler(this);"></div>
+         <div class="text38">E-mail:</div> -->
+         <!-- <div class="text39" onclick="showSpoiler(this);"></div> -->
          <div class="text40"><a name="o3" class="o3"></a><b>Наши преимущества</b></div>
-         <div class="text41">100% гарантия качества. Только оригинальная продукция. Работа напрямую с производителем</div>
-         <div class="text42">Вы ничем не рискуете: оплата заказа при получении или другие удобные для Вас способы оплаты</div>
-         <div class="text43">Низкие цены Хорошие скидки и акции с подарками при заказе</div>
-         <div class="text44">Доставка по всей России Пункты самовывоза в 100 городах</div>
-         <div class="text45">Быстрая доставка заказанного товара удобным способом</div>
+         
+         <!-- <div class="text42">Вы ничем не рискуете: оплата заказа при получении или другие удобные для Вас способы оплаты</div>
+         <div class="text43">Низкие цены Хорошие скидки и акции с подарками при заказе</div> -->
+         <!-- <div class="text44">Доставка по всей России Пункты самовывоза в 100 городах</div> -->
+         <!-- <div class="text45">Быстрая доставка заказанного товара удобным способом</div>
          <div class="text46">Качественная поддержка клиентов - круглосуточный колл-центр</div>
          <div class="text47">Низкая стоимость доставки по городам России -  от 200 руб.</div>
-         <div class="text48">Быстре и удобное оформление заказа за 1 клик через сайт</div>
-         <div class="text49"><b>Также рекомендуем приобрести</b></div>
+         <div class="text48">Быстре и удобное оформление заказа за 1 клик через сайт</div> -->
+        <!--  <div class="text49"><b>Также рекомендуем приобрести</b></div>
          <div class="text50"><b>Эффективный гель Hot Glide Liquid Pleasure на водной основе обладает экстра увлажнаяющими свойствами и обеспечивает длительное нежное скольжение</b></div>
          <div class="text51">Для анального и вагинального секса</div>
          <div class="text52"><b>600</b> руб.</div>
@@ -271,7 +375,7 @@
          <div class="text67"><b>1499 </b>руб.</div>
          <div class="text68">Тонгкат Али Платинум © 2016 Все права защищены </div>
          <div class="text69">Успей заказать до 30 июля 2016 года и получить подарок!</div>
-         <div class="text70">Сертификаты</div>
+         <div class="text70">Сертификаты</div> -->
          
          <div class="text72">?</div>
          <div class="text73">?</div>
@@ -281,12 +385,12 @@
          <div class="text77">?</div>
          <!-- <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Ic4OuOIkmQ" frameborder="0" allowfullscreen></iframe></div> -->
          <!-- <div class="icon_zamok"></div> -->
-         <div class="icon_zamok_2"></div>
+         <!-- <div class="icon_zamok_2"></div> -->
          
          <!-- <div class="bg_zamok"></div> -->
 
 
-         <div class="bg_zamok_2"></div>
+         <!-- <div class="bg_zamok_2"></div> -->
          <div id="popup">
              <div class="exit" onclick="openbox();"></div>
              <div class="popupphoto"></div>
@@ -304,10 +408,10 @@
 
 
          <!-- <div class="bg_2"></div> -->
-         <div class="bg_3"></div>
-         <div class="bg_4"></div>
-         <div class="bg_5"></div>
-         <div class="bg_6"></div>
+         <!-- <div class="bg_3"></div> -->
+         <!-- <div class="bg_4"></div> -->
+         <!-- <div class="bg_5"></div> -->
+         <!-- <div class="bg_6"></div> -->
          <div class="bg_7"></div>
          <div class="bg_8"></div>
          <div class="bg_9"></div>
@@ -317,27 +421,27 @@
          <div class=""></div>
          <div class=""></div>
          <div class="tong_bottom"></div>
-         <div class="fig"></div>
+     <!--     <div class="fig"></div>
          <div class="fig2"></div>
          <div class="fig3"></div>
-         <div class="fig4"></div>
-         <div class="fig5"></div>
-         <div class="galka_2_1"></div>
+         <div class="fig4"></div> -->
+         <!-- <div class="fig5"></div> -->
+        <!--  <div class="galka_2_1"></div>
          <div class="galka_2_2"></div>
          <div class="galka_2_3"></div>
          <div class="galka_2_4"></div>
-         <div class="galka_2_5"></div>
-         <div class="star"></div>
-         <div class="star2"></div>
-         <div class="star3"></div>
-         <div class="star4"></div>
+         <div class="galka_2_5"></div> -->
+         <!-- <div class="star"></div> -->
+   <!--       <div class="star2"></div>
+         <div class="star3"></div> -->
+<!--          <div class="star4"></div>
          <div class="star5"></div>
          <div class="star6"></div>
-         <div class="star7"></div>
-         <div class="star8"></div>
+         <div class="star7"></div> -->
+         
          <!-- <div class="normal2"></div> -->
-         <div class="normal3"></div>
-         <div class="normal4" onclick="openbox();"></div>
+         <!-- <div class="normal3"></div> -->
+         
          <div class="normal5"></div>
          <div class="normal6"></div>
 		 <div class="delivery" id="delivery">
@@ -352,7 +456,7 @@
          
          
     
-         <div class="tongat"></div>
+         <!-- <div class="tongat"></div> -->
 
           <div class="arrow_3"></div>
 
@@ -362,20 +466,20 @@
          
 
          
-         <div class="photo"></div>
-         <div class="photo2"></div>
-         <div class="price2"></div>
-         <div class="price3"></div>
-         <div class="present"></div> 
+         <!-- <div class="photo"></div> -->
+         <!-- <div class="photo2"></div> -->
+         <!-- <div class="price2"></div>
+         <div class="price3"></div> -->
+          
          
          
          <!-- <div class="field1"><input class="fields" "type"="text" name="name"></div>
          <div class="field2"><input class="fields" "type"="text" name="number"></div>
          <div class="field3"><input class="fields" "type"="text" name="email"></div> -->
          
-         <div class="field4"><input class="fields" "type"="text" name="name"></div>
+         <!-- <div class="field4"><input class="fields" "type"="text" name="name"></div>
          <div class="field5"><input class="fields" "type"="text" name="number"></div>
-         <div class="field6"><input class="fields" "type"="text" name="email"></div>
+         <div class="field6"><input class="fields" "type"="text" name="email"></div> -->
          
          
       </div>
