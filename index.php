@@ -177,10 +177,47 @@
 
 
          	</div>
-         </div>
+         </div><!--about-->
          
 
+		<div class="video_block">
+			<div class="container">
+				<div class="left_block">
+					<div class="text25">
+						
+						<b>Тонгкат Али Платинум даёт 100% результат</b>
+						
+						<div class="remark">
+							<div class="icon"></div>
+							<div class="text26"><b>Триэтаноламин</b></div>
+							<div class="text29"> Усиливает желание и укрепляет эрекцию </div>
+						</div>
 
+						
+						<div class="remark">
+							<div class="icon3"></div>
+							<div class="text26"><b>Продолжительность</b></div>
+							<div class="text29">Продлевает половой акт </div>
+						</div>
+
+						<div class="remark">
+							<div class="icon3"></div>
+							<div class="text26"><b>МОМЕНТАЛЬНЫЙ ЭФФЕКТ</b></div>
+							<div class="text29">Увеличивает половую чувствительность и усиливает оргазм</div>
+						</div>
+
+						
+
+					</div>
+				</div><!--left_block-->
+				<div class="right_block">
+					<div class="text71">Посмотри, как Анна Семенович выбирает успешных мужчин! </div>
+					<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Ic4OuOIkmQ" frameborder="0" allowfullscreen></iframe></div>
+				</div>
+
+
+			</div>
+		</div><!--video_block-->
 
 
 
@@ -189,13 +226,13 @@
          
          
          <div class="text24"><a name="o2" class="o2"></a><b>Натуральный препарат на основе корня  Тонгкат Али Платинум</b></div>
-         <div class="text25"><a name="o4" class="o4"></a><b>Тонгкат Али Платинум даёт 100% результат</b></div>
-         <div class="text26"><b>Триэтаноламин</b></div>
-         <div class="text27"><b>Продолжительность</b></div>
-         <div class="text28"><b>Моментальный эффект </b></div>
-         <div class="text29"> Усиливает желание и укрепляет эрекцию </div>
-         <div class="text30">Продлевает половой акт </div>
-         <div class="text31"> Увеличивает половую чувствительность и усиливает оргазм  </div>
+         
+         
+         
+         
+         
+         
+         
          <div class="text32">Энергетический браслет Power Balance</div>
          <div class="text33"><a name="o5" class="o5"></a><b>Подарок при заказе до 30.06.2016</b></div>
          <div class="text34">Заполните заявку и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
@@ -235,14 +272,14 @@
          <div class="text68">Тонгкат Али Платинум © 2016 Все права защищены </div>
          <div class="text69">Успей заказать до 30 июля 2016 года и получить подарок!</div>
          <div class="text70">Сертификаты</div>
-         <div class="text71">Посмотри, как Анна Семенович выбирает успешных мужчин! </div>
+         
          <div class="text72">?</div>
          <div class="text73">?</div>
          <div class="text74">?</div>
          <div class="text75">?</div>
          <div class="text76">?</div>
          <div class="text77">?</div>
-         <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Ic4OuOIkmQ" frameborder="0" allowfullscreen></iframe></div>
+         <!-- <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Ic4OuOIkmQ" frameborder="0" allowfullscreen></iframe></div> -->
          <!-- <div class="icon_zamok"></div> -->
          <div class="icon_zamok_2"></div>
          
@@ -266,7 +303,7 @@
          <!-- <div class="bg"></div> -->
 
 
-         <div class="bg_2"></div>
+         <!-- <div class="bg_2"></div> -->
          <div class="bg_3"></div>
          <div class="bg_4"></div>
          <div class="bg_5"></div>
@@ -322,9 +359,9 @@
 
          <div class="arrow10"></div>
          <div class="arrow11"></div>
-         <div class="icon"></div>
-         <div class="icon2"></div>
-         <div class="icon3"></div>
+         
+
+         
          <div class="photo"></div>
          <div class="photo2"></div>
          <div class="price2"></div>
