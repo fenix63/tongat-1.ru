@@ -333,8 +333,53 @@
 				<div class="glide">
 				</div>
 				<div class="glide_price">
-				<span><b>600</b> руб.</span>
+					<span><b>600</b> руб.</span>
 				</div>
+
+				<div class="rec_txt">
+					<p>ЭФФЕКТИВНЫЙ ГЕЛЬ HOT GLIDE 
+					LIQUID PLEASURE НА ВОДНОЙ ОСНОВЕ <br/>
+					ОБЛАДАЕТ ЭКСТРА УВЛАЖНАЯЮЩИМИ СВОЙСТВАМИ
+					И ОБЕСПЕЧИВАЕТ <br/> ДЛИТЕЛЬНОЕ НЕЖНОЕ СКОЛЬЖЕНИЕ
+					</p>
+					
+					<ul>
+						<li>Для анального и вагинального секса</li>
+						<li>Устраняет неприятные ощущения</li>
+						<li>Совместима с презервативами</li>
+						<li>Подходит для использования с игрушками</li>
+						<li>Без вкуса и запаха</li>
+					</ul>
+
+					<button>заказать</button>
+
+				</div>
+
+				<div class="rec_table">
+					
+					<div class="text61">Характеристики Hot Glide Liquid Pleasure, 30 мл</div>
+					<table>
+						<tr>
+							<td class="left_cell">Объем, мл</td>
+							<td class="right_cell">30</td>
+						</tr>
+						<tr>
+							<td class="left_cell">Состав</td>
+							<td class="right_cell">Водная</td>
+						</tr>
+						<tr>
+							<td class="left_cell">Тип</td>
+							<td class="right_cell">Классическая смазка, <br/> вагинальная</td>
+						</tr>
+						<tr>
+							<td class="left_cell last">Страна</td>
+							<td class="right_cell last">Германия</td>
+						</tr>
+					</table>
+				</div>
+
+
+
 			</div>
 		</div>
 
