@@ -447,14 +447,41 @@
 						</div>
 						<div class="arrow_right">
 						</div>
-					</div>
+					</div><!-- slider -->
 
-				</div>
+				</div><!-- certs -->
 
 
 			</div>
-		</div>
-         
+		</div><!-- faq -->
+        <div class="bot">
+           <div class="top_part">
+         	<div class="container">
+	         		<div class="left_part">
+	         			<div class="txt">Успей заказать до 30 июля 2016 года и получить подарок!</div>
+	         			<button>отправить заявку</button>
+	         		</div>
+	         		<div class="right_part">
+	         			<div class="right_price"><div>1499 руб.</div></div>
+	         			<div class="tong_img"></div>
+	         		</div>
+         	</div>
+           </div><!-- top_part -->
+           <div class="bottom_part">
+           		<div class="bottom_contact">
+           			<div class="email">
+           				<img src="img/mail_black.png" alt="email"><span>tongkat@mail.ru</span>
+           			</div>
+           			<div class="bot_phone">
+           				<img src="img/phone_black.png" alt="phone" /><span>8-800-200-10-10</span>
+           			</div>
+
+           			<div class="copyright">
+           				Тонгкат Али Платинум © 2016 Все права защищены 
+           			</div>
+           		</div>
+           </div>
+        </div>
          <!-- 
          <div class="text24"><a name="o2" class="o2"></a><b>Натуральный препарат на основе корня  Тонгкат Али Платинум</b></div>
          

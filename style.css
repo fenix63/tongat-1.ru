@@ -1636,6 +1636,49 @@ padding-bottom: 50px;
   margin-left: 28px;
 }
 
+.bot{
+  width:100%;
+  height: 280px;
+
+  float: left;
+}
+
+.left_part .txt{
+  font-size: 20px;
+    font-family: "Open Sans";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: left;
+    position: relative;
+    float: left;
+    height: 20px;
+    z-index: 4;
+}
+.top_part{
+  width:100%;
+  height: 142px;
+  background-color: #212427;
+}
+
+.top_part .left_part{
+  width: 600px;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+.bot button{
+  width:231px;
+  height:42px;
+  background-color: #e96915;
+  border-radius: 20px;
+  border:0;
+  font-family: "Open Sans";
+  font-size:15px;
+  color:#fff;
+  margin-left: 30%;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
 
 
 .questions{
@@ -2706,15 +2749,84 @@ a:hover
   background-repeat: no-repeat;
 }
 
-.left_block{
+.left_part{
   width:50%;
   float: left;
+}
+
+.bot .right_part{
+  width:40%;
+  height: 100%;
+  float: left;
+}
+
+.right_part .right_price{
+  float: left;
+  border-radius: 121px;
+  width:121px;
+  height: 121px;
+  margin-left: 116px;
+  background-color: #e96915;
+  font-size: 25px;
+  font-family: "Open Sans";
+  color:#fff;
+
+}
+
+.right_price div{
+    margin-left: 30px;
+    width: 50%;
+    padding-top: 25px;
+    margin-top: 15px;
 }
 
 .right_block{
   width: 50%;
   float: right;
   margin-top: 55px;
+}
+
+.bottom_part{
+  width:100%;
+  height:135px;
+  float: left;
+}
+
+.bottom_part .bottom_contact{
+  width: 390px;
+  height: 76px;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 45px;
+}
+.bottom_contact span{
+  margin-left: 13px;
+}
+
+.copyright{
+  width: 400px;
+  float: left;
+  clear: both;
+  margin-top: 31px;
+      font-size: 15px;
+    font-family: "Open Sans";
+    color: rgb(158, 158, 158);
+}
+
+
+.bottom_part .email{
+  float: left;
+}
+
+.tong_img{
+    background-image: url("img/tong_bottom.png");
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: 211px;
+    bottom: 20px;
+    width: 287px;
+    height: 182px;
+    z-index: 42;
 }
 
 .bg_2 
@@ -3285,5 +3397,10 @@ a:hover
   position: relative;
   width: 100%;
   height: 460px;
+  float: left;
+}
+
+.bot_phone{
+  margin-left: 53px;
   float: left;
 }
