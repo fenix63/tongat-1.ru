@@ -381,9 +381,79 @@
 
 
 			</div>
-		</div>
+		</div><!-- recommended -->
 
-         
+		<div class="faq">
+			<div class="container">
+				<div class="questions">
+					<div class="head">
+						Вопросы и ответы
+					</div>
+
+					<div class="cell">
+						<div class="txt">
+							<div class="quest">?</div><div class="vopr">Как сделать заказ через сайт?</div>
+							<div class="sign">+</div>
+						</div>
+					</div>
+
+					<div class="cell">
+						<div class="txt">
+							<div class="quest">?</div><div class="vopr">Как заказать товар по телефону?</div>
+							<div class="sign">+</div>
+						</div>
+					</div>
+
+					<div class="cell">
+						<div class="txt">
+							<div class="quest">?</div><div class="vopr">Как оплатить заказ?</div>
+							<div class="sign">+</div>
+						</div>
+					</div>
+
+					<div class="cell">
+						<div class="txt">
+							<div class="quest">?</div><div class="vopr">Сколько времени занимает доставка?</div>
+							<div class="sign">+</div>
+						</div>
+					</div>
+
+					<div class="cell">
+						<div class="txt">
+							<div class="quest">?</div><div class="vopr">Если меня не устроил заказ, могу ли я его вернуть?</div>
+							<div class="sign">+</div>
+						</div>
+					</div>
+
+					<div class="cell">
+						<div class="txt">
+							<div class="quest">?</div><div class="vopr">Есть ли противопоказания к применению препарата?</div>
+							<div class="sign">+</div>
+						</div>
+					</div>
+
+				</div><!-- questions -->
+				<div class="certs">
+					<div class="head">
+						сертификаты
+					</div>
+					
+					<div class="slider">
+						<div class="arrow_left">
+						</div>
+						<div class="cert_item">
+						</div>
+						<div class="cert_item last">
+						</div>
+						<div class="arrow_right">
+						</div>
+					</div>
+
+				</div>
+
+
+			</div>
+		</div>
          
          <!-- 
          <div class="text24"><a name="o2" class="o2"></a><b>Натуральный препарат на основе корня  Тонгкат Али Платинум</b></div>
@@ -500,14 +570,14 @@
          <!-- <div class="normal3"></div> -->
          
          <!-- <div class="normal5"></div> -->
-         <div class="normal6"></div>
+         <!-- <div class="normal6"></div>
 		 <div class="delivery" id="delivery">
 		 	<a href="#">Доставка</a>
 		 </div>
 
 		 <div class="contacts" id="contacts">
 		 	<a href="#">Контакты</a>
-		 </div>
+		 </div> -->
 
          <!--<div class="russian">РОССИЯ</div>-->
          
