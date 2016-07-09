@@ -81,12 +81,12 @@
          <!--<div class="geo"></div>-->
          <div class="bg_menu">
          	<div class="container">
-         		 <div class="link1"><a href="#">О магазине</a></div>
-		         <div class="link2"><a href="#o2">О препарате</a></div>
-		         <div class="link3"><a href="#o3">Преимущества</a></div>
+         		 <div class="link1"><a href="#header">О магазине</a></div>
+		         <div class="link2"><a href="#about">О препарате</a></div>
+		         <div class="link3"><a href="#why_us">Преимущества</a></div>
 		         <div class="link4"><a href="#o4">Гарантии</a></div>
-		         <div class="link5"><a href="#o5">Спецпредложение</a></div>
-		         <div class="link6"><a href="#o6">Вопросы и ответы</a></div>
+		         <div class="link5"><a href="#recommended">Спецпредложение</a></div>
+		         <div class="link6"><a href="#faq">Вопросы и ответы</a></div>
 		         <div class="link7"><a href="#delivery">Доставка</a></div>
 		         <div class="link8"><a href="#contacts">Контакты</a></div>
 		         <div class="link1 callback"><a href="#">Заказать звонок</a></div>
@@ -99,7 +99,7 @@
          <div class="phone2"></div> -->
 
          
-         <div class="header">
+         <div class="header" id="header">
          	<div class="container">
          		<div class="tong">
          			<img src="img/tong.png" alt="" />
@@ -163,7 +163,7 @@
          	</div>
          </div>	<!--header-->
          
-         <div class="about">
+         <div class="about" id="about">
          	<div class="container">
 
          		<div class="about_head">
@@ -310,7 +310,7 @@
 			</div>
 		</div><!--promo-->
 
-		<div class="why_us">
+		<div class="why_us" id="why_us">
 			<div class="container">
 
 			<div class="why_us_header">
@@ -361,7 +361,7 @@
 			</div>
 		</div><!--why_us-->
 		
-		<div class="recommended">
+		<div class="recommended" id="recommended">
 			<div class="container">
 				<div class="rec_head">
 					также рекомендуем приобрести
@@ -419,7 +419,7 @@
 			</div>
 		</div><!-- recommended -->
 
-		<div class="faq">
+		<div class="faq" id="faq">
 			<div class="container">
 				<div class="questions">
 					<div class="head">
@@ -503,7 +503,7 @@
 	         		</div>
          	</div>
            </div><!-- top_part -->
-           <div class="bottom_part">
+           <div class="bottom_part" id="contacts">
            		<div class="bottom_contact">
            			<div class="email">
            				<img src="img/mail_black.png" alt="email"><span>tongkat@mail.ru</span>
