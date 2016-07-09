@@ -25,7 +25,8 @@ img
 }
 
 .container{
-	width:1175px;
+	/*width:1175px;*/
+  width: 90%;
 	margin:0 auto;
 	height: 100%;
 }
