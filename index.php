@@ -9,9 +9,17 @@
 	<link href="style.css" rel="stylesheet">
 	<link href="select-box.css" rel="stylesheet">
 
+	<!--Подключаем стили, необходимые для всплывающих окон-->
+	<link href="css/callback.css" rel="stylesheet">
+
+
 
    <link href="font/opensans/opensans.css" rel="stylesheet">
    <link href="font/hattori/hattori.css" rel="stylesheet">
+
+
+   <script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+   <script type="text/javascript" src="js/callback.js"></script>
 </head>
 <body>
 
@@ -518,162 +526,30 @@
            		</div>
            </div>
         </div>
-         <!-- 
-         <div class="text24"><a name="o2" class="o2"></a><b>Натуральный препарат на основе корня  Тонгкат Али Платинум</b></div>
-         
-          -->
-         
-         
-         
-         
-         
-         
-         
-         <!-- <div class="text34">Заполните заявку и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
-         <div class="text35">Доставка строго конфиденциальна</div>
-         <div class="text36">Имя:</div>
-         <div class="text37">Номер телефона:</div>
-         <div class="text38">E-mail:</div> -->
-         <!-- <div class="text39" onclick="showSpoiler(this);"></div> -->
-         
-         
-         <!-- <div class="text42">Вы ничем не рискуете: оплата заказа при получении или другие удобные для Вас способы оплаты</div>
-         <div class="text43">Низкие цены Хорошие скидки и акции с подарками при заказе</div> -->
-         <!-- <div class="text44">Доставка по всей России Пункты самовывоза в 100 городах</div> -->
-         <!-- <div class="text45">Быстрая доставка заказанного товара удобным способом</div>
-         <div class="text46">Качественная поддержка клиентов - круглосуточный колл-центр</div>
-         <div class="text47">Низкая стоимость доставки по городам России -  от 200 руб.</div>
-         <div class="text48">Быстре и удобное оформление заказа за 1 клик через сайт</div> -->
-        <!--  <div class="text49"><b>Также рекомендуем приобрести</b></div>
-         <div class="text50"><b>Эффективный гель Hot Glide Liquid Pleasure на водной основе обладает экстра увлажнаяющими свойствами и обеспечивает длительное нежное скольжение</b></div>
-         <div class="text51">Для анального и вагинального секса</div>
-         <div class="text52"><b>600</b> руб.</div>
-         <div class="text53">Классическая смазка, вагинальгая</div>
-         <div class="text54">Германия</div>
-         <div class="text55">Водная</div>
-         <div class="text56">30</div>
-         <div class="text57">Страна</div>
-         <div class="text58">Тип</b></div>
-         <div class="text59">Состав</b></div>
-         <div class="text60">Объем, мл</b></div>
-         <div class="text61">Характеристики Hot Glide Liquid Pleasure, 30 мл</div>
-         <div class="text62">Устраняет неприятные ощущения</div>
-         <div class="text63">Совместима с презервативами</div>
-         <div class="text64">Подходит для использования с игрушками</div>
-         <div class="text65">Без вкуса и запаха</div>
-         <div class="text66"><a name="o6" class="o6"></a>Вопросы и ответы</div>
-         <div class="text67"><b>1499 </b>руб.</div>
-         <div class="text68">Тонгкат Али Платинум © 2016 Все права защищены </div>
-         <div class="text69">Успей заказать до 30 июля 2016 года и получить подарок!</div>
-         <div class="text70">Сертификаты</div> -->
-         
-        <!--  <div class="text72">?</div>
-         <div class="text73">?</div>
-         <div class="text74">?</div>
-         <div class="text75">?</div>
-         <div class="text76">?</div>
-         <div class="text77">?</div> -->
-         <!-- <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Ic4OuOIkmQ" frameborder="0" allowfullscreen></iframe></div> -->
-         <!-- <div class="icon_zamok"></div> -->
-         <!-- <div class="icon_zamok_2"></div> -->
-         
-         <!-- <div class="bg_zamok"></div> -->
-
-
-         <!-- <div class="bg_zamok_2"></div> -->
-        <!--  <div id="popup">
-             <div class="exit" onclick="openbox();"></div>
-             <div class="popupphoto"></div>
-             <div class="popuptext"></div>
-         </div>
-         <div class="noactive"></div>
-         <div class="noactive2"></div>
-         <div class="noactive3"></div>
-         <div class="noactive4"></div>
-         <div class="noactive5"></div>
-         <div class="noactive6"></div>
-         <div class="active"></div> -->
-         
-         <!-- <div class="bg"></div> -->
-
-
-         <!-- <div class="bg_2"></div> -->
-         <!-- <div class="bg_3"></div> -->
-         <!-- <div class="bg_4"></div> -->
-         <!-- <div class="bg_5"></div> -->
-         <!-- <div class="bg_6"></div> -->
-        <!--  <div class="bg_7"></div>
-         <div class="bg_8"></div>
-         <div class="bg_9"></div>
-         <div class="sertificat"></div>
-         <div class="sertificat2"></div>
-         <div class=""></div>
-         <div class=""></div>
-         <div class=""></div>
-         <div class="tong_bottom"></div> -->
-     <!--     <div class="fig"></div>
-         <div class="fig2"></div>
-         <div class="fig3"></div>
-         <div class="fig4"></div> -->
-         <!-- <div class="fig5"></div> -->
-        <!--  <div class="galka_2_1"></div>
-         <div class="galka_2_2"></div>
-         <div class="galka_2_3"></div>
-         <div class="galka_2_4"></div>
-         <div class="galka_2_5"></div> -->
-         <!-- <div class="star"></div> -->
-   <!--       <div class="star2"></div>
-         <div class="star3"></div> -->
-<!--          <div class="star4"></div>
-         <div class="star5"></div>
-         <div class="star6"></div>
-         <div class="star7"></div> -->
-         
-         <!-- <div class="normal2"></div> -->
-         <!-- <div class="normal3"></div> -->
-         
-         <!-- <div class="normal5"></div> -->
-         <!-- <div class="normal6"></div>
-		 <div class="delivery" id="delivery">
-		 	<a href="#">Доставка</a>
-		 </div>
-
-		 <div class="contacts" id="contacts">
-		 	<a href="#">Контакты</a>
-		 </div> -->
-
-         <!--<div class="russian">РОССИЯ</div>-->
-         
-         
-    
-         <!-- <div class="tongat"></div> -->
-
-          <!-- <div class="arrow_3"></div>
-
-
-         <div class="arrow10"></div>
-         <div class="arrow11"></div> -->
          
 
-         
-         <!-- <div class="photo"></div> -->
-         <!-- <div class="photo2"></div> -->
-         <!-- <div class="price2"></div>
-         <div class="price3"></div> -->
-          
-         
-         
-         <!-- <div class="field1"><input class="fields" "type"="text" name="name"></div>
-         <div class="field2"><input class="fields" "type"="text" name="number"></div>
-         <div class="field3"><input class="fields" "type"="text" name="email"></div> -->
-         
-         <!-- <div class="field4"><input class="fields" "type"="text" name="name"></div>
-         <div class="field5"><input class="fields" "type"="text" name="number"></div>
-         <div class="field6"><input class="fields" "type"="text" name="email"></div> -->
          
          
       </div>
-   </div>
+   </div><!-- wrapper -->
+
+	<!-- Форма обратного звонка-->
+
+<div id="popup">
+    <form id="contact_form" role="form" method="post" action="callback.php">
+        <h3>Напишите нам</h3>
+        <input type="text" name="name"  placeholder="Как к вам обращаться?">
+        <input type="text" name="tel"  class="required" placeholder="Контакный телефон (обязательно)">
+        <input type="text" name="email" placeholder="Email">
+        <textarea name="message" placeholder="Текст сообщения" rows="5"></textarea>
+        <a href="#" class="btn button form_submit">Заказать</a>
+    </form>
+</div>
+
+<!-- Форма -->
+
+
+
 </body>
 
 <script type="text/javascript">
