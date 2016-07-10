@@ -138,7 +138,7 @@
 					<span>Успейте сделать заказ до 30 июля 2016 года и <br/> получите энергетический браслет в подарок</span>
 				</div>
 
-				<form name="zayavka" class="request" action="send_zayavka.php">
+				<form name="zayavka" class="request" action="send_zayavka.php" method="post">
 					<div class="request_top_txt">Заполните заявку и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
 					<div class="zamok">
 						<div class="icon_zamok">

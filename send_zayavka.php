@@ -2,7 +2,8 @@
 	header('Content-type: text/html; charset=utf-8');
 	//error_reporting(0);   
 
-if(!empty($_POST['send'])) {
+//if(!empty($_POST['send'])) {
+if(!empty($_POST['email'])) {
 
 	$name = substr(htmlspecialchars(trim($_POST['name'])), 0, 300);
 	$tel = substr(htmlspecialchars(trim($_POST['phone'])), 0, 100);
@@ -36,7 +37,8 @@ if(!empty($_POST['send'])) {
     }
 else {
 	
-	echo "<h2>Ошибка! Попробуйте еще раз.</h2>";
+	echo "<h2>Ошибка! Попробуйте еще раз.</h2>\n\r";
+	echo $_POST['email'];
 	
 }
 	
