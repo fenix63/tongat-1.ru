@@ -20,6 +20,7 @@
 
    <script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
    <script type="text/javascript" src="js/callback.js"></script>
+   <script type="text/javascript" src="js/send_mail.js"></script>
 </head>
 <body>
 
@@ -276,7 +277,7 @@
 					
 				</div>
 				
-				<form name="form2" class="request">
+				<form name="form2" class="request" method="post">
 					<div class="request_top_txt">Заполните заявку <br/> и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
 					<div class="zamok">
 						<div class="icon_zamok">
@@ -286,17 +287,17 @@
 
 					<div class="req_name">
 						<span>Имя:</span>
-						<input type="text">
+						<input type="text" name="name">
 					</div>
 
 					<div class="req_phone">
 						<span>Номер телефона:</span>
-						<input type="text">
+						<input type="text" name="phone">
 					</div>
 
 					<div class="req_email">
 						<span>E-mail:</span>
-						<input type="text">
+						<input type="text" name="email">
 					</div>
 
 					<input type="submit" value="Отправить заявку" />
@@ -394,8 +395,10 @@
 						<li>Подходит для использования с игрушками</li>
 						<li>Без вкуса и запаха</li>
 					</ul>
-
-					<button>заказать</button>
+					
+					
+						<button class="zakaz_gel">заказать</button>
+					
 
 				</div>
 
@@ -503,7 +506,7 @@
          	<div class="container">
 	         		<div class="left_part">
 	         			<div class="txt">Успей заказать до 30 июля 2016 года и получить подарок!</div>
-	         			<button>отправить заявку</button>
+	         			<button class="send_zayavka">отправить заявку</button>
 	         		</div>
 	         		<div class="right_part">
 	         			<div class="right_price"><div>1499 руб.</div></div>
@@ -533,7 +536,7 @@
       </div>
    </div><!-- wrapper -->
 
-	<!-- Форма обратного звонка-->
+<!-- Форма обратного звонка-->
 
 <div id="popup">
     <form id="contact_form" role="form" method="post" action="callback.php">
@@ -547,6 +550,14 @@
 </div>
 
 <!-- Форма -->
+
+
+
+
+
+
+
+
 
 
 

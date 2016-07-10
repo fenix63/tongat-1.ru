@@ -1,5 +1,8 @@
 <?php
-	header('Content-type: text/html; charset=utf-8; Location: http://tongat-1.ru');
+	header('Content-type: text/html; charset=utf-8;');
+	
+	header('Status: 301 Moved Permanently');
+	header('Location: http://tongat-1.ru');//Редирект на главную страницу
 	//error_reporting(0);   
 
 //if(!empty($_POST['send'])) {
@@ -28,6 +31,7 @@ if(!empty($_POST['email'])) {
 	
 		echo "<h3>Заявка удачно оформлена.</h3>";
 		echo "<p>Заявке присвоен номер Z".$Nzakaz.". Наш менеджер свяжется с вами в ближайшее время.</p>";
+		
 	}
 	else
 	{
