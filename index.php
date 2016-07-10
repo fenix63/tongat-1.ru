@@ -138,7 +138,7 @@
 					<span>Успейте сделать заказ до 30 июля 2016 года и <br/> получите энергетический браслет в подарок</span>
 				</div>
 
-				<form name="zayavka" class="request">
+				<form name="zayavka" class="request" action="send_zayavka.php">
 					<div class="request_top_txt">Заполните заявку и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
 					<div class="zamok">
 						<div class="icon_zamok">
@@ -148,17 +148,17 @@
 
 					<div class="req_name">
 						<span>Имя:</span>
-						<input type="text">
+						<input type="text" name="name">
 					</div>
 
 					<div class="req_phone">
 						<span>Номер телефона:</span>
-						<input type="text">
+						<input type="text" name="phone">
 					</div>
 
 					<div class="req_email">
 						<span>E-mail:</span>
-						<input type="text">
+						<input type="text" name="email">
 					</div>
 
 					<input type="submit" value="Отправить заявку" />
