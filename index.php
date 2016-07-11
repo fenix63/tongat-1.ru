@@ -540,12 +540,33 @@
 
 <div id="popup">
     <form id="contact_form" role="form" method="post" action="callback.php">
-        <h3>Напишите нам</h3>
-        <input type="text" name="name"  placeholder="Как к вам обращаться?">
-        <input type="text" name="tel"  class="required" placeholder="Контакный телефон (обязательно)">
-        <input type="text" name="email" placeholder="Email">
-        <textarea name="message" placeholder="Текст сообщения" rows="5"></textarea>
-        <a href="#" class="btn button form_submit">Заказать</a>
+        <div class="contact_form">Заполните заявку и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
+        <div class="contact_zamok">
+				<div class="icon_zamok">
+				</div>
+			<span>Доставка строго конфиденциальна</span>
+		</div>
+		<div class="cont_name">
+			<span>Имя:</span>
+			<input type="text" name="name">
+		</div>
+
+
+        <!-- <input type="text" name="name"  placeholder="Как к вам обращаться?"> -->
+        <div class="cont_phone">
+			<span>Номер телефона:</span>
+			<input type="text" name="phone">
+		</div>
+
+        <!-- <input type="text" name="tel"  class="required" placeholder="Контакный телефон (обязательно)"> -->
+        <div class="cont_email">
+			<span>E-mail:</span>
+			<input type="text" name="email">
+		</div>
+
+        <!-- <input type="text" name="email" placeholder="Email"> -->
+        
+        <a href="#" class="btn button form_submit"><span class="cont_span">Заказать</span></a>
     </form>
 </div>
 

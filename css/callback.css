@@ -6,8 +6,8 @@
     top: 50%;
     z-index: 2000;
     background:#eeeeee;
-    width:420px;
-    height: 330px;
+    width:272px;
+    height: 422px;
     padding:10px 20px 20px 20px;
 }
     *html #popup, *html #calc  {
@@ -34,9 +34,9 @@
 
     #popup input[type=text], #calc input[type=text] {
         text-align:left;
-        width:268px;
+        width:232px;
         padding:0 10px;
-        height:30px;
+        height:40px;
         display:block;
         margin:10px 0px;
         border:1px solid #eee;
@@ -63,18 +63,21 @@
             #popup .button, #calc .button {
                 font-size: 16px;
                 box-sizing: border-box;
-                background: #ab6969;
-                width: 140px;
-                height: 35px;
+                float:left;
+                
+                width: 252px;
+                height: 42px;
+                background-color: #e6610b;
+
                 line-height: 35px;
                 display: block;
                 text-align: center;
                 text-decoration: none;
                 color: #ffffff;
-                float:right;
+                
                 text-shadow: none;
-                border: 1px solid #705062;
-                border-radius: 0;
+                border: 0px solid #705062;
+                border-radius: 20px;
                 padding: 0px;
             }
                 #popup .button:hover, #calc .button:hover {
@@ -110,4 +113,73 @@
     *html #fade {
         position: absolute;
     }
+
+
+
+.contact_form{
+        font-size: 15px;
+    font-family: "Open Sans";
+    color: rgb(36, 36, 36);
+    line-height: 1.2;
+    text-align: center;
+    padding: 14px;
+}
+
+.contact_zamok{
+    background-color: rgba(213, 213, 213,1.0);
+    position: relative;
+    float: left;
+    width: 312px;
+    margin-left: -20px;
+    height: 40px;
+    z-index: 298;
+}
+
+.contact_zamok span{
+    position: relative;
+    font-size: 11px;
+    font-family: "Open Sans";
+    color: rgb(88, 88, 88);
+    line-height: 1.2;
+    text-align: center;
+    height: 12px;
+    z-index: 300;
+    top: 10px;
+    margin-left: 10px;
+}
+
+.cont_name, .cont_phone, .cont_email{
+    float: left;
+    margin-left: 0px;
+
+    display: inline-block;
+
+    font-size: 14px;
+    font-family: "Open Sans";
+}
+
+.cont_name input[type="text"], .cont_phone input[type="text"], .cont_email input[type="text"]{
+    text-align: left;
+    width: 232px;
+    padding: 0 10px;
+    height: 40px;
+    display: block;
+    margin: 10px 0px;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    border-top-color: #ccd1d7;
+    color: #000000;
+    background: #ffffff;
+    font-family: Arial, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+.cont_span{
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    position: relative;
+ 
+}
 /* end popup */
