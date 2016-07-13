@@ -429,6 +429,130 @@
 			</div>
 		</div><!-- recommended -->
 
+		<div class="recommended" id="recommended">
+			<div class="container">
+				<div class="rec_head">
+					РЕКОМЕНДУЕМ!
+				</div>
+				<div class="glide">
+				</div>
+				<div class="glide_price">
+					<span><b>600</b> руб.</span>
+				</div>
+
+				<div class="rec_txt">
+					<p>ГЕЛЬ HOT GLIDE LIQUID PLEASURE<br/>
+						ЭФФЕКТИВНО УВЛАЖНАЯЕТ<br/>
+						И ОБЕСПЕЧИВАЕТ КОЖЕ<br/>
+						ДЛИТЕЛЬНОЕ НЕЖНОЕ ОЩУЩЕНИЕ
+
+					</p>
+					
+					<ul>
+						<li>Подходит для секса: анального и вагинального<br/> c использованием игрушек.</li>
+						<li>Возможно применение с презервативом.</li>
+						<li>Забудьте о неприятных ощущениях.</li>
+						<li>Без запаха и вкуса.</li>
+					</ul>
+					
+					
+						<button class="zakaz_gel" id="gel" onclick="yaCounter38317610.reachGoal('gel');">заказать</button>
+					
+
+				</div>
+
+				<div class="rec_table">
+					
+					<div class="text61">Характеристики Hot Glide Liquid Pleasure, 30 мл</div>
+					<table>
+						<tr>
+							<td class="left_cell">Объем, мл</td>
+							<td class="right_cell">30</td>
+						</tr>
+						<tr>
+							<td class="left_cell">Состав</td>
+							<td class="right_cell">На основе воды</td>
+						</tr>
+						<tr>
+							<td class="left_cell">Тип</td>
+							<td class="right_cell">Вагинальная смазка</td>
+						</tr>
+						<tr>
+							<td class="left_cell last">Страна производитель</td>
+							<td class="right_cell last">Германия</td>
+						</tr>
+					</table>
+				</div>
+
+
+
+			</div>
+		</div><!-- recommended -->
+
+		
+		<div class="recommended" id="recommended">
+			<div class="container">
+				<div class="rec_head">
+					РЕКОМЕНДУЕМ!
+				</div>
+				<div class="glide">
+				</div>
+				<div class="glide_price">
+					<span><b>600</b> руб.</span>
+				</div>
+
+				<div class="rec_txt">
+					<p>ГЕЛЬ HOT GLIDE LIQUID PLEASURE<br/>
+						ЭФФЕКТИВНО УВЛАЖНАЯЕТ<br/>
+						И ОБЕСПЕЧИВАЕТ КОЖЕ<br/>
+						ДЛИТЕЛЬНОЕ НЕЖНОЕ ОЩУЩЕНИЕ
+
+					</p>
+					
+					<ul>
+						<li>Подходит для секса: анального и вагинального<br/> c использованием игрушек.</li>
+						<li>Возможно применение с презервативом.</li>
+						<li>Забудьте о неприятных ощущениях.</li>
+						<li>Без запаха и вкуса.</li>
+					</ul>
+					
+					
+						<button class="zakaz_gel" id="gel" onclick="yaCounter38317610.reachGoal('gel');">заказать</button>
+					
+
+				</div>
+
+				<div class="rec_table">
+					
+					<div class="text61">Характеристики Hot Glide Liquid Pleasure, 30 мл</div>
+					<table>
+						<tr>
+							<td class="left_cell">Объем, мл</td>
+							<td class="right_cell">30</td>
+						</tr>
+						<tr>
+							<td class="left_cell">Состав</td>
+							<td class="right_cell">На основе воды</td>
+						</tr>
+						<tr>
+							<td class="left_cell">Тип</td>
+							<td class="right_cell">Вагинальная смазка</td>
+						</tr>
+						<tr>
+							<td class="left_cell last">Страна производитель</td>
+							<td class="right_cell last">Германия</td>
+						</tr>
+					</table>
+				</div>
+
+
+
+			</div>
+		</div><!-- recommended -->
+
+
+
+
 		<div class="faq" id="faq">
 			<div class="container">
 				<div class="questions">

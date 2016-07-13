@@ -25,7 +25,7 @@ if(!empty($_POST['email'])) {
 	$theme = "Заявка на Тонгат";
 
 	//if(mail("youran198824@gmail.com", $theme, $mess, "From: test@учеба.top <test@учеба.top>\nContent-Type: text/html;\n charset=utf-8\nX-Priority: 0"))
-	if(mail("fenix_63@mail.ru", $theme, $mess,"Content-Type: text/html;\n charset=utf-8\nX-Priority: 0"))
+	if(mail("pohydey@gmail.com", $theme, $mess,"Content-Type: text/html;\n charset=utf-8\nX-Priority: 0"))
 	{
 	
 	

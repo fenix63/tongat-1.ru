@@ -1,3 +1,12 @@
+/* fonts */
+
+@font-face{
+	font-family: "Ubuntu Regular";
+	src:url('font/Ubuntu-R.ttf');
+}
+
+
+
 body
 {
    margin: 0;
@@ -25,8 +34,8 @@ img
 }
 
 .container{
-	/*width:1175px;*/
-  width: 90%;
+	width:1175px;
+  /*width: 90%;*/
 	margin:0 auto;
 	height: 100%;
 }
@@ -119,7 +128,7 @@ img
   background-color: rgb(30, 30, 30);
   opacity: 0.902;
   position: fixed;
-  left: -15px;
+
   top: -9px;
   width: 100%;
   height: 53px;
@@ -131,7 +140,7 @@ img
   background-color: rgb(30, 30, 30);
   opacity: 0.902;
   position: fixed;
-  left: -15px;
+ 
   top: -9px;
   width: 100%;
   height: 104px;
@@ -776,7 +785,7 @@ img
   margin-left: 25px;
   height: 25px;
   z-index: 205;
-  margin-top: 15px;
+  margin-top: 65px;
 }
 
 .text33 
@@ -1560,9 +1569,7 @@ padding-bottom: 50px;
   margin-right: 15px;
 }
 
-.cell:last-child .txt .sign{
-  margin-top: -29px;
-}
+
 
 .cell .txt .vopr{
   float: left;
@@ -2606,22 +2613,17 @@ a:hover
   position: relative;
   float: left;
   width: 182px;
-  height: 31px;
+  height: 25px;
   z-index: 230;
   cursor: pointer;
   margin-left: 25px;
   margin-top: 15px;
-  padding-top: 7px;
-  padding-left: 10px;
-  font-family: "Ubuntu";
-  font-size: 12pt;
-}
-
-.podarok{
-  width: 750px;
-  height: 400px;
-  margin-top: 67px;
-  float: left;
+  padding-top: 13px;
+  padding-left: 18px;
+  font-family: "Ubuntu Regular";
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 .normal4:hover
@@ -2631,11 +2633,17 @@ a:hover
   position: relative;
   float: left;
   width: 182px;
-  height: 31px;
+  height: 25px;
   z-index: 230;
   cursor: pointer;
 }
 
+.podarok{
+  width: 750px;
+  height: 400px;
+  margin-top: 67px;
+  float: left;
+}
 
 .normal3 
 {
@@ -2712,12 +2720,12 @@ a:hover
 
 .photo 
 {
-  background-image: url("img/photo.png");
+  background-image: url("img/knife.png");
   background-repeat: no-repeat;
   position: relative;
   float: left;
   width: 538px;
-  height: 123px;
+  height: 162px;
   margin-left: 178px;
   margin-top: 37px;
   z-index: 207;

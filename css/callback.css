@@ -1,5 +1,5 @@
 /* BEGIN POPUP */
-#popup, #calc {
+#popup, #calc{
     display: none;
     left: 50%;
     position: fixed;
@@ -10,6 +10,29 @@
     height: 422px;
     padding:10px 20px 20px 20px;
 }
+
+ #more{
+ 	display: none;
+    left: 50%;
+    position: fixed;
+    top: 50%;
+    z-index: 2000;
+    background:#eeeeee;
+    border-radius: 5px;
+    width:970px;
+    height: 560px;
+    padding:10px 20px 20px 20px;
+    overflow-y:scroll; 
+
+    font-family: "Open Sans";
+    font-size: 12pt;
+ }
+
+
+
+
+
+
     *html #popup, *html #calc  {
         position: absolute;
     }
