@@ -11,16 +11,27 @@
 
 	<!--Подключаем стили, необходимые для всплывающих окон-->
 	<link href="css/callback.css" rel="stylesheet">
-
-
+    <link href="css/animate.css" type="text/css" rel="stylesheet">
+    <link href="css/anicollection.css" type="text/css" rel="stylesheet">
+	
 
    <link href="font/opensans/opensans.css" rel="stylesheet">
    <link href="font/hattori/hattori.css" rel="stylesheet">
 
-
-   <script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+   
    <script type="text/javascript" src="js/callback.js"></script>
    <script type="text/javascript" src="js/send_mail.js"></script>
+
+
+
+	<!-- слайдер -->
+	<link href="css/slider.css" rel="stylesheet">
+	 <link href="js/lightGallery/lightGallery.css" type="text/css" rel="stylesheet">
+
+
+
+
 </head>
 <body>
 
@@ -478,7 +489,7 @@
 						сертификаты
 					</div>
 					
-					<div class="slider">
+					<!-- <div class="slider">
 						<div class="arrow_left">
 						</div>
 						<div class="cert_item">
@@ -488,6 +499,28 @@
 						<div class="arrow_right">
 						</div>
 					</div><!-- slider -->
+
+					<div class="slider">
+		                <ul class="lightGallery" style="width: 1761px; padding-right: 880px;">
+		                    <li data-src="img/cert_1.png"><img src="img/cert_1.png" alt=""></li>
+		                    <li data-src="img/cert_2.png"><img src="img/cert_2.png" alt=""></li>
+		                    <li data-src="img/cert_3.png"><img src="img/cert_3.png" alt=""></li>
+		                    <li data-src="img/cert_4.png"><img src="img/cert_4.png" alt=""></li>
+		                    <li data-src="img/cert_1.png"><img src="img/cert_1.png" alt=""></li>
+		                    <li data-src="img/cert_2.png"><img src="img/cert_2.png" alt=""></li>
+		                    <li data-src="img/cert_3.png"><img src="img/cert_3.png" alt=""></li>
+		                    <li data-src="img/cert_4.png"><img src="img/cert_4.png" alt=""></li>
+		                </ul>
+		            </div>
+					<div class="controls">
+		                <a href="#" class="prev-slide previ-slide"></a>
+		                <a href="#" class="next-slide nexti-slide"></a>
+		            </div>
+
+
+
+
+
 
 				</div><!-- certs -->
 
@@ -649,10 +682,10 @@
 
 
 
-
-
-
-
+<script type="text/javascript" src="js/lemmon-slider.js"></script>
+<script type="text/javascript" src="js/mobilyslider.js"></script>	
+<script src="js/lightGallery/lightGallery.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
 
 </body>
 

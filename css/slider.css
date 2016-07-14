@@ -32,8 +32,12 @@ display: none;
 .pagination li:hover, li.current {background:#fff}
 
 .slider{
-	height: 250px;
-	
+    width: 428px;
+    height: 240px;
+    padding: 0;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
 }
 
 .slider ul li .photo{
@@ -69,4 +73,31 @@ display: none;
 	font-size: 16px;
 }
 
+.slider li{
+	width: 170px;
+    height: 240px;
+    overflow: hidden;
+    float: left;
+    margin: 0 22px;
+    list-style: none;
+    background: url('../img/zoom.png') no-repeat center center #000000;
+    cursor: pointer;
+}
 
+.previ-slide {
+    position: absolute;
+    top: 200px;
+    left: 735px;
+    width: 18px;
+    height: 46px;
+    background: url('../img/arrow_prev.png') no-repeat;
+}
+
+.nexti-slide {
+    position: absolute;
+    top: 200px;
+    right: 110px;
+    width: 18px;
+    height: 46px;
+    background: url('../img/arrow_next.png') no-repeat;
+}
