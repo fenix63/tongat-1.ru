@@ -20,8 +20,8 @@
    <link href="font/opensans/opensans.css" rel="stylesheet">
    <link href="font/hattori/hattori.css" rel="stylesheet">
 
-<script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
-   
+   <script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+   <script type="text/javascript" src="js/list_drop.js"></script>
    <script type="text/javascript" src="js/callback.js"></script>
    <script type="text/javascript" src="js/send_mail.js"></script>
 
@@ -453,6 +453,9 @@
 						<div class="txt">
 							<div class="quest">?</div><div class="vopr">Как сделать заказ через сайт?</div>
 							<div class="sign">+</div>
+							<p class="answer">
+								Просто заполните заявку и мы вам перезвоним.
+							</p>
 						</div>
 					</div>
 
@@ -460,6 +463,9 @@
 						<div class="txt">
 							<div class="quest">?</div><div class="vopr">Как заказать товар по телефону?</div>
 							<div class="sign">+</div>
+							<p class="answer">
+								Необходимо позвонить по тел. ____________ и сделать свой заказ оператору.
+							</p>
 						</div>
 					</div>
 
@@ -467,6 +473,9 @@
 						<div class="txt">
 							<div class="quest">?</div><div class="vopr">Как оплатить заказ?</div>
 							<div class="sign">+</div>
+							<p class="answer">
+								Оплата производится при получении заказа.
+							</p>
 						</div>
 					</div>
 
@@ -474,6 +483,9 @@
 						<div class="txt">
 							<div class="quest">?</div><div class="vopr">Сколько времени занимает доставка?</div>
 							<div class="sign">+</div>
+							<p class="answer">
+								Период доставки можно уточнить при заказе у оператора. Ориентировочные сроки: 1 день (по Москве), 7-10 дней (остальные города России).
+							</p>
 						</div>
 					</div>
 
@@ -481,6 +493,9 @@
 						<div class="txt">
 							<div class="quest">?</div><div class="vopr">Если меня не устроил заказ, могу ли я его вернуть?</div>
 							<div class="sign">+</div>
+							<p class="answer">
+								___________ (по закону в течение  2-х недель)
+							</p>
 						</div>
 					</div>
 

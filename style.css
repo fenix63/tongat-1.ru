@@ -3410,3 +3410,8 @@ a:hover
   margin-left: 53px;
   float: left;
 }
+
+.answer{
+  float: left;
+  display: none;
+}
