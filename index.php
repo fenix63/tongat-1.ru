@@ -13,7 +13,9 @@
 	<link href="css/callback.css" rel="stylesheet">
     <link href="css/animate.css" type="text/css" rel="stylesheet">
     <link href="css/anicollection.css" type="text/css" rel="stylesheet">
-	
+	<link href="css/media.css" type="text/css" rel="stylesheet">
+
+
 
    <link href="font/opensans/opensans.css" rel="stylesheet">
    <link href="font/hattori/hattori.css" rel="stylesheet">
