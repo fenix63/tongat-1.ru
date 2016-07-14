@@ -1,9 +1,9 @@
 @media screen and (min-width: 1370px){
 	.previ-slide{
-		left:950px;
+		left:950px !important;
 	}
 
 	.nexti-slide{
-		right: 350px;
+		right: 350px !important;
 	}
 }
