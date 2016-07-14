@@ -276,7 +276,7 @@
 					
 				</div>
 				
-				<form name="form2" class="request" id="request_promo" method="post" onsubmit="yaCounter38317610.reachGoal('request_promo');">
+				<form name="form2" action="send_zayavka.php" class="request" id="request_promo" method="post" onsubmit="yaCounter38317610.reachGoal('request_promo');">
 					<div class="request_top_txt">Заполните заявку <br/> и мы <b>бесплатно доставим</b> Вам Тонгкат в любой город России</div>
 					<div class="zamok">
 						<div class="icon_zamok">

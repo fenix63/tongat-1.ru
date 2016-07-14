@@ -4,10 +4,10 @@
 $(function() {
 	//Функция проверяет заполнено ли поле с телефоном
 	function formValide() {
-		var str = $('#contact_form input[name=tel]').val();
+		var str = $('#contact_form input[name=phone]').val();
 		str = jQuery.trim(str);
 		if(str.length < 5){
-			alert ('Р’РІРµРґРёС‚Рµ С‚РµР»РµС„РѕРЅ');
+			alert ('Введите телефон');
 			return false;
 		}
 		return true;
@@ -16,10 +16,10 @@ $(function() {
 	//Функция проверяет заполнено ли поле с телефоном на форме
 	//калькулятора
 	function formValide_calc() {
-		var str = $('#calc_form input[name=tel]').val();
+		var str = $('#calc_form input[name=phone]').val();
 		str = jQuery.trim(str);
 		if(str.length < 5){
-			alert ('Р’РІРµРґРёС‚Рµ С‚РµР»РµС„РѕРЅ');
+			alert ('Введите телефон');
 			return false;
 		}
 		return true;
@@ -30,7 +30,7 @@ $(function() {
 	$('#contact_form .button').on('click', function() {
 		if (formValide()) {
 			//если форма прошла проверку, выводим блок с текстом ожидания
-			$('#contact_form').before('<h3 id="contact_form_info">РћС„РѕСЂРјР»РµРЅРёРµ Р·Р°СЏРІРєРё. РџРѕРґРѕР¶РґРёС‚Рµ...</h3>');
+			$('#contact_form').before('<h3 id="contact_form_info">Оформление заявки. Подождите...</h3>');
 			$('#contact_form').hide();
 			//берем путь php обработчика
 			order_url = $('#contact_form').attr('action');
@@ -57,7 +57,7 @@ $(function() {
 	$('#calc_form .button').on('click', function() {
 		if (formValide_calc()) {
 			//если форма прошла проверку, выводим блок с текстом ожидания
-			$('#calc_form').before('<h3 id="calc_form_info">РћС„РѕСЂРјР»РµРЅРёРµ Р·Р°СЏРІРєРё. РџРѕРґРѕР¶РґРёС‚Рµ...</h3>');
+			$('#calc_form').before('<h3 id="calc_form_info">Оформление заявки. Подождите...</h3>');
 			$('#calc_form').hide();
 			//берем путь php обработчика
 			order_url = $('#calc_form').attr('action');

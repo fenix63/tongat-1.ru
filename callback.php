@@ -21,7 +21,7 @@ if(!empty($_POST['send'])) {
 	$theme = "Заявка на обратный звонок";
 
 	//if(mail("youran198824@gmail.com", $theme, $mess, "From: test@учеба.top <test@учеба.top>\nContent-Type: text/html;\n charset=utf-8\nX-Priority: 0"))
-	if(mail("pohydey@gmail.com", $theme, $mess,"FROM: Test\r\n Content-Type: text/html;\n charset=utf-8\nX-Priority: 0"))
+	if(mail("pohydey@gmail.com", $theme, $mess,"Content-Type: text/html;\n charset=utf-8\nX-Priority: 0"))
 	{
 	
 	

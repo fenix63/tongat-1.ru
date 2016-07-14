@@ -1,0 +1,72 @@
+
+#slider_container {
+position:relative;
+
+
+
+}
+.sliderbutton {float:left; width:25px; height:235px; cursor:pointer}
+#slideleft {background:url(../img/arrow_left.png) 0px 90px no-repeat}
+#slideleft:hover {
+
+}
+#slideright {background:url(../img/arrow_right.png) 0 90px no-repeat}
+
+#slider {
+	float:left;
+	position:relative;
+	overflow:auto;
+	width: 95%;
+	height:235px;
+}
+#slider ul {position:absolute; list-style:none; top:0; left:0}
+#slider li {
+	float:left;
+	width: 990px;
+	height:235px;
+}
+.pagination {
+display: none;
+	position:absolute; top:40px; right:61px; list-style:none; height:25px}
+.pagination li {float:left; cursor:pointer; height:8px; width:8px; background:#ccc; margin:0 4px 0 0; border:1px solid #fff}
+.pagination li:hover, li.current {background:#fff}
+
+.slider{
+	height: 250px;
+	
+}
+
+.slider ul li .photo{
+	float:left;
+}
+.slider ul li .text{
+	background-color: #fff;
+    border: 2px solid #dadada;
+	padding: 23px;
+	padding-bottom: 13px;
+
+
+	position: relative;
+    float: left;
+    width: 600px;
+    margin-left: 45px;
+    font-size: 8pt;
+}
+
+.slider ul li .text h4{
+	font-family: "Lato Bold";
+	font-size: 18px;
+	color:#208d6e;
+}
+
+.slider ul li p{
+	font-family: "Lato Light";
+	font-size: 9pt;
+}
+
+.slider ul li p span{
+	font-family: "Lato Regular";
+	font-size: 16px;
+}
+
+
