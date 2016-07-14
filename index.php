@@ -127,7 +127,7 @@
          			<img src="img/tong.png" alt="" />
          		</div>
 				<div class="price">
-					<span>1499 <br/> руб.</span>
+					<span>1499 </span><br/> <span id="rub">руб.</span>
 				</div>
 				<div class="t_a_p">ТОНГКАТ АЛИ ПЛАТИНУМ</div>
 				<div class="text02">Забудьте о потенции!</div>
@@ -267,11 +267,13 @@
 
 					</div>
 				</div><!--left_block-->
-				<div class="right_block">
-					<div class="text71">Посмотри, как Анна Семенович выбирает успешных мужчин! </div>
-					<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Ic4OuOIkmQ" frameborder="0" allowfullscreen></iframe></div>
-				</div>
 
+				
+					<div class="right_block">
+						<div class="text71">Посмотри, как Анна Семенович выбирает успешных мужчин! </div>
+						<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Ic4OuOIkmQ" frameborder="0" allowfullscreen></iframe></div>
+					</div>
+				
 
 			</div>
 		</div><!--video_block-->
