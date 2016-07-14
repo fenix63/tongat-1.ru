@@ -157,6 +157,7 @@ img
   float: left;
   margin-top: 442px;
   margin-left: -312px;
+  z-index: 319;
 }
 
 .price span{
@@ -182,7 +183,7 @@ img
 .tong 
 {
   /*background-image: url("img/tong.png");*/
-
+  position: relative;
   float: left;
   margin-top: 60px;
   width: 405px;
