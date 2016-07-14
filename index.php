@@ -281,9 +281,9 @@
 				<div class="podarok">
 					
 					<div class="present"></div>
-					<div class="text33"><b>ДЛЯ ВАС ПОДАРОК!<br/>Сделайте заказ до__________</b></div>
-					<div class="text32">Энергетический браслет Power Balance</div>
-					<div class="normal4" id="normal4" onclick="yaCounter38317610.reachGoal('normal4');">подробнее о браслете</div>
+					<div class="text33"><b>ДЛЯ ВАС ПОДАРОК!<br/>Сделайте заказ <br/> до конца этого месяца</b></div>
+					<div class="text32">Складной нoж кредитка CardSharp</div>
+					<div class="normal4" id="normal4" onclick="yaCounter38317610.reachGoal('normal4');">подробнее о ноже</div>
 					<div class="photo"></div>
 
 					
