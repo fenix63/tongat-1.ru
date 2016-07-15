@@ -84,6 +84,10 @@ display: none;
     cursor: pointer;
 }
 
+.slider li:first-child{
+    margin-left: 0px;
+}
+
 .previ-slide {
     position: absolute;
     top: 200px;
