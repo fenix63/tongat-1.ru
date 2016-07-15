@@ -7,12 +7,31 @@
 
 @font-face{
   font-family: "Open Sans ExtraBold";
-  src:url('font/OpenSans-ExtraBold.ttf');
+  src:url('font/OpenSans-ExtraBold.ttf'),
+      url('font/opensansextrabold.woff') format('woff'),
+      url('font/opensansextrabold.woff2') format('woff2');
 }
 
 @font-face{
   font-family: "Open Sans Light";
-  src:url('font/OpenSans-Light.ttf');
+  src:url('font/OpenSans-Light.ttf'),
+      url('font/opensanslight.woff') format ('woff'),
+      url('font/opensanslight.woff2') format('woff2');
+}
+
+@font-face{
+  font-family: "Open Sans Semibold";
+  src:url('font/opensanssemibold.ttf'),
+      url('font/OpenSans-Semibold.ttf'),
+      url('font/opensanssemibold.woff') format ('woff'),
+      url('font/opensanssemibold.woff2') format('woff2');
+}
+
+@font-face{
+  font-family: "Open Sans";
+  src:url('font/opensans.ttf'),
+      url('font/opensans.woff') format ('woff'),
+      url('font/opensans.woff2') format('woff2');
 }
 
 
@@ -61,6 +80,8 @@ img
   z-index: 350;
   margin-right: 170px;
   color: #fff;
+  font-family: "Open Sans";
+  font-size:15px;
 }
 
 
@@ -131,6 +152,8 @@ img
 .phone span{
   color: #fff;
   margin-left: 30px;
+  font-family: "Open Sans";
+  font-size:15px;
 }
 
 .bg_top 
@@ -268,6 +291,7 @@ img
   width: 32px;
   height: 27px;
   z-index: 326;
+  
 }
 
 .t_a_p{
@@ -276,7 +300,7 @@ img
   margin-top: 66px;
 
   font-size: 30px;
-  font-family: "Open Sans";
+  font-family: "Open Sans Semibold";
   margin-left: 45px;
 }
 
@@ -2042,6 +2066,8 @@ a
   padding-top: 11px;
   padding-left: 18px;
   margin-top: -4px !important;
+  /*margin-left: 68px !important;*/
+  float: right !important;
 }
 
 .callback:hover{
@@ -2050,12 +2076,16 @@ a
 
 .callback a{
   color: #000;
+  font-family: "Ubuntu Regular";
+  font-size:12px;
+  margin-left: 5px;
 }
 
 a:hover
 {
-  font-size: 13px;
-  font-family: "Open Sans";
+  font-size: 12px;
+  /*font-family: "Open Sans";*/
+  font-family: "Ubuntu Regular";
   color: rgb(233, 105, 21);
   text-transform: uppercase;
   line-height: 1.2;
